@@ -1,0 +1,1 @@
+This is a repo with a few exercises I worked on designed to help me practice coding in C++.
