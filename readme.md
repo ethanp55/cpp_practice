@@ -1,1 +1,1 @@
-This is a repo with a few exercises I worked on designed to help me practice coding in C++.
+This is a repo with a few exercises, designed to help me practice C++, that I gradually worked on.
