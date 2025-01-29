@@ -21,8 +21,8 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
-    double num1 = std::stod(argv[1]);
-    double num2 = std::stod(argv[2]);
+    double num1 = stod(argv[1]);
+    double num2 = stod(argv[2]);
 
     cout << num1 << " * " << num2 << " = " << num1 * num2 << endl;
 

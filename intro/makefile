@@ -6,3 +6,6 @@ divisible_by: divisible_by.cpp
 
 collatz: collatz.cpp
 	g++ collatz.cpp -o collatz
+
+sqrt: sqrt.cpp
+	g++ sqrt.cpp -o sqrt
