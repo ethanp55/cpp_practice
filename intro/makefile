@@ -18,3 +18,9 @@ reformat: reformat.cpp
 
 longest_line: longest_line.cpp
 	g++ longest_line.cpp -o longest_line
+
+sort_strings: sort_strings.cpp
+	g++ sort_strings.cpp -o sort_strings
+
+head: head.cpp
+	g++ head.cpp -o head
