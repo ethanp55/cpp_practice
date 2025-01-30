@@ -9,3 +9,12 @@ collatz: collatz.cpp
 
 sqrt: sqrt.cpp
 	g++ sqrt.cpp -o sqrt
+
+calculator: calculator.cpp
+	g++ calculator.cpp -o calculator
+
+reformat: reformat.cpp
+	g++ reformat.cpp -o reformat
+
+longest_line: longest_line.cpp
+	g++ longest_line.cpp -o longest_line
