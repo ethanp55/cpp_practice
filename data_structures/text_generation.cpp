@@ -45,7 +45,7 @@ word_map read_words(istream &is) {
  * Output:
  * - The unordered map of string to vector<string>
  * **/
-void generate_text(ostream &os, word_map& words, string prev, const int n_words) {
+void generate_text(ostream &os, const word_map& words, string prev, const int n_words) {
     os << prev << " ";
 
     for (int i = 0; i < n_words; i++) {
